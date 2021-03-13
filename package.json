@@ -1,0 +1,18 @@
+{
+  "name": "facebookimport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "react": "node index_react.js",
+    "java": "node index_java.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "firebase": "^8.3.0",
+    "luxon": "^1.26.0",
+    "uuid": "^8.3.2"
+  }
+}
